@@ -1,1 +1,12 @@
+# Segredos
 .env
+.env.*
+!.env.example
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.py[cod]
