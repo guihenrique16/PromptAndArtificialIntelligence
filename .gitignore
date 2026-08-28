@@ -10,3 +10,6 @@ venv/
 # Arquivos temporários Python
 __pycache__/
 *.py[cod]
+
+# Banco local
+*.db
