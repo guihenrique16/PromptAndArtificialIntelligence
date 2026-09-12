@@ -1,3 +1,4 @@
 id_transacao,id_cliente,destinatario,chave_pix,valor,data
 1,1,Ana,ana@email.com,50.00,11/09/2026 14:27:50
 2,1,Milton,miltinho@email.com,349.00,11/09/2026 14:30:06
+3,1,Milton,miltinho@email.com,77.00,11/09/2026 22:24:08

@@ -1,2 +1,4 @@
 openai-agents
 python-dotenv
+python-telegram-bot
+truststore
